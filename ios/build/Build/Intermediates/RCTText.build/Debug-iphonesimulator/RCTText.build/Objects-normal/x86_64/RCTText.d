@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/Johnny/Desktop/PSI/API_Test/node_modules/react-native/Libraries/Text/RCTText.m \
+  /Users/Johnny/Desktop/PSI/API_Test/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/Johnny/Desktop/PSI/API_Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/Johnny/Desktop/PSI/API_Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/Johnny/Desktop/PSI/API_Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/Johnny/Desktop/PSI/API_Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/Johnny/Desktop/PSI/API_Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/Johnny/Desktop/PSI/API_Test/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/Johnny/Desktop/PSI/API_Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/Johnny/Desktop/PSI/API_Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/Johnny/Desktop/PSI/API_Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/Johnny/Desktop/PSI/API_Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/Johnny/Desktop/PSI/API_Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/Johnny/Desktop/PSI/API_Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/Johnny/Desktop/PSI/API_Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/Johnny/Desktop/PSI/API_Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/Johnny/Desktop/PSI/API_Test/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Johnny/Desktop/PSI/API_Test/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Johnny/Desktop/PSI/API_Test/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Johnny/Desktop/PSI/API_Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h
